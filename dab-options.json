@@ -1,0 +1,13 @@
+﻿{
+   "ConnectionStringName": "dab-connection-string",
+   "Dacpac": null,
+   "DatabaseType": 3,
+   "MergeDacpacs": false,
+   "ProjectPath": "C:\\Users\\KolonusDev08\\Downloads\\Gridstack\\Gridstack",
+   "Tables": [
+      {
+         "Name": "[dbo].[Productos]",
+         "ObjectType": 0
+      }
+   ]
+}

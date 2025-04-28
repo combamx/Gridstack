@@ -1,0 +1,47 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "Gridstack API",
+    "description": "API para ventas de productos electrónicos",
+    "version": "v1"
+  },
+  "paths": {
+    "/api/DetalleVentum": {
+      "get": {
+        "tags": [
+          "DetalleVentum"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Producto": {
+      "get": {
+        "tags": [
+          "Producto"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Venta": {
+      "get": {
+        "tags": [
+          "Venta"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

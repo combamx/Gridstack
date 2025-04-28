@@ -1,0 +1,6 @@
+@Gridstack_HostAddress = http://localhost:5142
+
+GET {{Gridstack_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
